@@ -1,0 +1,9 @@
+{
+    "jwtPrivateKey": "scrap_jwtPrivateKey",
+    "db":{
+        "host": "database_host_scrap",
+        "user": "database_user_scrap",
+        "password": "database_pass_scrap",
+        "database": "database_db_scrap"
+    }
+}
